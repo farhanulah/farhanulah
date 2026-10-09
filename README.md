@@ -1,4 +1,4 @@
-![Intro](./assets/hero.svg?v=1)
+![Intro](./assets/hero.svg?v=2)
 ![About](./assets/about-life.svg?v=1)
 ![Stack](./assets/stack.svg?v=1)
 ![ID](./assets/id-dashboard.svg?v=1)

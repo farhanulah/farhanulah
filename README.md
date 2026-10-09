@@ -1,16 +1,19 @@
-## Hi there 👋
+![Intro](./assets/hero.svg?v=1)
+![About](./assets/about-life.svg?v=1)
+![Stack](./assets/stack.svg?v=1)
+![ID](./assets/id-dashboard.svg?v=1)
+![Connect](./assets/connect.svg?v=1)
 
-<!--
-**farhanulah/farhanulah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects
 
-Here are some ideas to get you started:
+| Project | What it is | Link |
+|---|---|---|
+| FARHAN — The Series | Netflix-style cinematic personal portfolio | [farhan-ullah-portfolio.vercel.app](https://farhan-ullah-portfolio.vercel.app/) |
+| Bread Chef Café & Bakers | Live café website with a 30-item menu and photo gallery | [bread-chef-caf-and-bakers.vercel.app](https://bread-chef-caf-and-bakers.vercel.app) |
+| Visa Agency Suite | Local candidate-entry & accounts/ledger system | Local build |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect
+
+- Website: https://farhan-ullah-portfolio.vercel.app/
+- Instagram: https://instagram.com/badghost00/
+- Facebook: https://www.facebook.com/share/1EzGkbLc8x/
